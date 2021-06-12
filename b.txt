@@ -1,4 +1,10 @@
 git practicing
 
+<<<<<<< HEAD
 learning 1
 learning 2
+
+learning merging
+
+and merge conflicts
+
