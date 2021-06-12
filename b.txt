@@ -1,1 +1,5 @@
 git practicing
+
+learning merging
+
+and merge conflicts
